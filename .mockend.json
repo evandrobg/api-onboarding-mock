@@ -1,17 +1,19 @@
 {
-  "empresas": [{
-    "cEmprCanalIntl": "int",
-    "cPssoaUnic": "int",
-    "cGrpCliEmpr": "int",
-    "cIndcdEmprEstrg": "int",
-    "dInclEmprCanalIntl": "string",
-    "dExclEmprCanalIntl": "string",
-     "nCnpjEmprCanalIntl": "int",
+  "empresas": [
+    {
+      "cEmprCanalIntl": "int",
+      "cPssoaUnic": "int",
+      "cGrpCliEmpr": "int",
+      "cIndcdEmprEstrg": "int",
+      "dInclEmprCanalIntl": "string",
+      "dExclEmprCanalIntl": "string",
+      "nCnpjEmprCanalIntl": "int",
       "nFlialCnpjCanalIntl": "int",
-       "nCtrlCnpjCanalIntl": "int",
-        "iEmprCanalIntl": "string",
-         "cIndcdEmprPrinc": "int",
-          "cIndcdCliCrrtt": "int",
-          "cDoctoPssoaEstrgl": "int"
-  }]
+      "nCtrlCnpjCanalIntl": "int",
+      "iEmprCanalIntl": "string",
+      "cIndcdEmprPrinc": "int",
+      "cIndcdCliCrrtt": "int",
+      "cDoctoPssoaEstrgl": "int"
+    }
+  ]
 }
